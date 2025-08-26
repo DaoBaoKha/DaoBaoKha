@@ -1,3 +1,12 @@
-![DaoBaoKha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoBaoKha&show_icons=true&theme=github_dark)
+## 👋 Hi, I'm Dao Bao Kha
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoBaoKha)](https://github.com/anuraghazra/github-readme-stats)
+Backend Developer passionate about building APIs and scalable systems using C# and modern frameworks.
+
+**Languages & Tools:**  
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" height="24"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" height="24"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sql_server.png" height="24"/>
+
+---
+
+![DaoBaoKha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoBaoKha&show_icons=true&theme=github_dark)
