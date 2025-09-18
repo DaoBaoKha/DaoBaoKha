@@ -9,4 +9,4 @@ Backend Developer passionate about building APIs and scalable systems using C# a
 
 ---
 
-![DaoBaoKha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoBaoKha&show_icons=true&theme=github_dark)
+[![DaoBaoKha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoBaoKha)](https://github.com/anuraghazra/github-readme-stats)
